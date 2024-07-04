@@ -1,0 +1,6 @@
+{
+	"appId": "tgsi.oberon.oberonvip",
+	"appName": "OberonVIP",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
